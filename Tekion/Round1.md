@@ -1,6 +1,10 @@
-1. Difference b/w let & var with example
-2. Colouser with example
-3. Prototype chain
-4. Implement own flatten function on array
-5. Implement own compose function
-   ![myCompose](https://github.com/k10oo7/interview-questions/blob/main/misc/myCompose.png)
+Difference b/w let & var with example
+Colouser with example
+Prototype chain
+Implement own flatten function on array
+
+Implement is 2 object are equal
+![isMyObjectEqual](https://github.com/k10oo7/interview-questions/blob/main/misc/isObjectEqual.png)
+Implement own compose function
+![myCompose](https://github.com/k10oo7/interview-questions/blob/main/misc/myCompose.png)
+
